@@ -25,3 +25,13 @@ body {
     text-align: center;
     font-weight: 600;
 }
+.button {
+  padding: 10px;
+  background-color: limegreen;
+  border-radius: 5px;
+}
+.button {
+  padding: 10px;
+  background-color: orange;
+  border-radius: 10px;
+}
