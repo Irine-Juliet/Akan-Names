@@ -8,12 +8,11 @@
 }
 body {
     background-attachment: fixed;
-    background-image: url("/images/cute.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: rgb(255, 240, 249);
-}
+    background-color: yellow;
+  }
 .text {
     font-style: italic;
     font-weight: bolder;
