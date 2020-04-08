@@ -19,3 +19,9 @@ body {
     font-size: initial;
     color: blue;
 }
+.container {
+    float: centre;
+    font-weight: bold;
+    text-align: center;
+    font-weight: 600;
+}
