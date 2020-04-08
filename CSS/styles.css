@@ -13,5 +13,10 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-color: rgb(255, 240, 249);
-
+}
+.text {
+    font-style: italic;
+    font-weight: bolder;
+    font-size: initial;
+    color: blue;
 }
